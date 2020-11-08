@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: inherit;
+    margin-top: 256px;
+}
+
+h1 {
+    color: black;
+    font-family: inherit;
+}
+button {
+    background-color: transparent;
+    border: 2px solid gray;
+    border-radius: 4px;
+    display: inline-block;
+    color: black;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    letter-spacing: 3px;
+    margin: 5px;
+    overflow: hidden;
+    padding: 0 22px;
+    transition: all ;
+}
+button:hover {
+    background-color: gray;
+}
