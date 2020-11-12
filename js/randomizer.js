@@ -22,8 +22,10 @@ function randomzizer() {
             hex += hexcodes[random];
         }
 
-        /* Set the color span and the body backgroundcolor of variable hex */
+        /* Set the color span in html */
         color.innerHTML = hex;
+
+        /* Set body backgroundcolor of the variable of hex*/
         body.style.backgroundColor = hex;
 
 }
