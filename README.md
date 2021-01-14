@@ -4,7 +4,7 @@ This is a script that outputs random color hex codes.
 
 ## How to use
 
-Try it out on my [website](https://beezxmaster.github.io/Hex-Color-Randomizer/). If you do not want to accept this service, you can clone the project on your PC and then open the index.html in the local browser tab and enter the necessary data.
+Try it out on my [website](https://einfachbeez.github.io/Hex-Color-Randomizer/). If you do not want to accept this service, you can clone the project on your PC and then open the index.html in the local browser tab and enter the necessary data.
 
 ## Screenshots
 
